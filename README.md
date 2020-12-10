@@ -2,8 +2,8 @@
 
 Makes it easy to translate your resource fields.
 
-[![Gem Version](https://badge.fury.io/rb/activeadmin-globalize.svg)](http://badge.fury.io/rb/activeadmin-globalize)
-[![Build Status](https://travis-ci.org/fabn/activeadmin-globalize.svg?branch=develop)](https://travis-ci.org/fabn/activeadmin-globalize)
+This is a fork of of https://github.com/fabn/activeadmin-globalize which is un-maintained.
+It has had its gemspec updated so it will work with a recent version of active_admin.
 
 ## Help Needed
 
